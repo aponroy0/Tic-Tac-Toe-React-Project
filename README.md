@@ -11,17 +11,13 @@ It is beginner-friendly and demonstrates how React handles UI updates, game flow
 Add your deployed link here
 `https://your-demo-link.vercel.app`
 
-<br></br>
+</br>
 
 ## Component Hierarchy
 
-(Add your component hierarchy diagram or screenshot here)
-
-```
 ![Hierarchy](./public/Hierarchy.jpg)
-```
 
-<br></br>
+</br>
 
 ## Features
 
@@ -31,7 +27,7 @@ Add your deployed link here
 - Game history (time travel)
 - Fully interactive board built with React state
 
-<br></br>
+</br>
 
 ## What I Learned
 
@@ -50,7 +46,7 @@ Add your deployed link here
 
    This approach helped me understand how to implement features like undo and redo by using previous states. It was a valuable experience, and it will definitely help me in future projects that require state tracking or time-travel functionality.
 
-<br></br>
+</br>
 
 ## Tech Stack
 
@@ -59,7 +55,7 @@ Add your deployed link here
 - CSS (Tailwind)
 - Vite
 
-<br></br>
+</br>
 
 ## Getting Started
 
@@ -81,7 +77,7 @@ npm install
 npm run dev
 ```
 
-<br></br>
+</br>
 
 ## How It Works
 
@@ -90,5 +86,3 @@ npm run dev
 - Each click updates the board state and switches players
 - Winning patterns are checked after every move
 - The UI updates instantly through React’s re-rendering mechanism
-
-<br></br>
