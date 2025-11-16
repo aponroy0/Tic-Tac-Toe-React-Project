@@ -3,8 +3,7 @@
 A simple and interactive Tic Tac Toe game built using React.
 This project focuses on clean component structure, state management, and the core logic behind building a turn-based game.
 It is beginner-friendly and demonstrates how React handles UI updates, game flow, and reusable components.
-
----
+</br>
 
 ## Live Demo
 
